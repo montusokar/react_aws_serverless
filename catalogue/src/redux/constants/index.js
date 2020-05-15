@@ -1,0 +1,3 @@
+export const ADD_SERVER = "ADD_SERVER";
+export const ADD_APPLICATION = "ADD_APPLICATION";
+export const ADD_DATABASE = "ADD_DATABASE";
